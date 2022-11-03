@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\projeteste\projeteste\bin\Debug\projeteste.exe.config
+C:\Users\Tecnico\source\repos\projeteste\projeteste\bin\Debug\projeteste.exe
+C:\Users\Tecnico\source\repos\projeteste\projeteste\bin\Debug\projeteste.pdb
+C:\Users\Tecnico\source\repos\projeteste\projeteste\obj\Debug\projeteste.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\projeteste\projeteste\obj\Debug\projeteste.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\projeteste\projeteste\obj\Debug\projeteste.exe
+C:\Users\Tecnico\source\repos\projeteste\projeteste\obj\Debug\projeteste.pdb
